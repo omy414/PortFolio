@@ -519,7 +519,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
   color: red;
 }
 .sub_title{
-  font-size: 25px;
+  font-size: 17px;
   color: aqua;
 }
 .p-b-30 h6{
@@ -2175,7 +2175,7 @@ input.num-product::-webkit-inner-spin-button {
 
 .stext-111 {
   font-family: Poppins-Regular;
-  font-size: 15px;
+  font-size: 25px;
   line-height: 1.6923;
 }
 
